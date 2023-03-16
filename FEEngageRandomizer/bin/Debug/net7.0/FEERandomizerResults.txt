@@ -1,0 +1,35 @@
+Alear new class is Wyvern Knight (Sword, Lance)
+Vander new class is Hero (Axe)
+Clanne new class is General (Lance)
+Framme new class is Thief
+Alfred new class is General (Lance)
+Boucheron new class is High Priest
+Etie new class is Halberdier
+Celine new class is Sniper
+Louis new class is Hero (Axe)
+Chloe new class is Sword Fighter
+Jean new class is Hero (Axe)
+Alcryst new class is Griffin Knight (Axe)
+Lapis new class is Thief
+Citrinne new class is Wyvern Knight (Lance, Axe)
+Diamant new class is Beserker
+Jade new class is Sage
+Saphir new class is Swordmaster
+Anna new class is Paladin (Axe)
+Ivy new class is Sword Armor
+Zelkov new class is Paladin (Axe)
+Kagetsu new class is General (Axe)
+Hortensia new class is Mage
+Rosado new class is Mage Knight (Sword)
+Goldmary new class is Beserker
+Lindon new class is Martial Master
+Fogado new class is Archer
+Pandreo new class is Wolf Knight (Axe)
+Bunet new class is Hero (Axe)
+Timerra new class is Bow Knight (Sword)
+Merrin new class is Swordmaster
+Panette new class is Wolf Knight (Axe)
+Seadall new class is Mage Knight (Lance)
+Yunaka new class is Archer
+Veyle new class is Sword Fighter
+Mauvier new class is Sniper

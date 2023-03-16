@@ -1,0 +1,15 @@
+C:\Programming\C#\C#\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\FEEngageRandomizer.exe
+C:\Programming\C#\C#\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\FEEngageRandomizer.deps.json
+C:\Programming\C#\C#\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\FEEngageRandomizer.runtimeconfig.json
+C:\Programming\C#\C#\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\FEEngageRandomizer.dll
+C:\Programming\C#\C#\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\FEEngageRandomizer.pdb
+C:\Programming\C#\C#\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\FEEngageRandomizer.csproj.AssemblyReference.cache
+C:\Programming\C#\C#\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\FEEngageRandomizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\C#\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\FEEngageRandomizer.AssemblyInfoInputs.cache
+C:\Programming\C#\C#\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\FEEngageRandomizer.AssemblyInfo.cs
+C:\Programming\C#\C#\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\FEEngageRandomizer.csproj.CoreCompileInputs.cache
+C:\Programming\C#\C#\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\FEEngageRandomizer.dll
+C:\Programming\C#\C#\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\refint\FEEngageRandomizer.dll
+C:\Programming\C#\C#\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\FEEngageRandomizer.pdb
+C:\Programming\C#\C#\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\FEEngageRandomizer.genruntimeconfig.cache
+C:\Programming\C#\C#\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ref\FEEngageRandomizer.dll
